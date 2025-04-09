@@ -4,6 +4,10 @@ Sou Desenvolvedor Back-End com sólida experiência em Java, especializado na co
 
 💼 Atualmente, atuo como **Desenvolvedor de Software na [Trade Arena](https://www.tradearena.com.br/)**, uma plataforma de trade gamificado e educativo, onde contribuo com a criação de aplicações modernas, integradas e focadas em performance, segurança e usabilidade.
 
+🚀 Também sou o idealizador e mantenedor da **[DankHouse](https://github.com/dankhouse)**, uma organização focada em soluções tecnológicas para o mercado canábico. Atualmente, estamos dando os primeiros passos no desenvolvimento do Grow Level — um projeto promissor que une gamificação, educação e diário de cultivo. A jornada está só começando, e contribuições são super bem-vindas! 🌱💻
+
+
+
 🧠 Minha trajetória combina tecnologia, liderança e comunicação:
 
 - 🎖️ **Aspirante a Oficial da Reserva (2017)** pelo Exército Brasileiro – desenvolvi disciplina, resiliência e espírito de liderança.
