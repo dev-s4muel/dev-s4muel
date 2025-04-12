@@ -40,6 +40,8 @@ Sou Desenvolvedor Back-End com sólida experiência em Java, especializado na co
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-s4muel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-s4muel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+
 </div>
 
 ---
@@ -47,10 +49,3 @@ Sou Desenvolvedor Back-End com sólida experiência em Java, especializado na co
 📚 Estou sempre explorando novas tecnologias, contribuindo com projetos e aprendendo com a comunidade.
 
 🔗 Sinta-se à vontade para conectar, colaborar ou apenas trocar uma ideia
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-s4muel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dev-s4muel&locale=pt-br&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
