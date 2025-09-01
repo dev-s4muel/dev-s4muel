@@ -2,9 +2,6 @@
 
 Sou Desenvolvedor Back-End com sólida experiência em Java, especializado na construção de soluções resilientes, seguras e escaláveis. Minha jornada combina técnica, disciplina e propósito.
 
-💼 Atualmente, atuo como **Desenvolvedor de Software na [Trade Arena](https://www.tradearena.com.br/)**, uma plataforma de trade gamificado e educativo, onde contribuo com a criação de aplicações modernas, integradas e focadas em performance, segurança e usabilidade.
-
-
 🧠 Minha trajetória combina tecnologia, liderança e comunicação:
 
 - 🎖️ **Aspirante a Oficial da Reserva (2017)** pelo Exército Brasileiro – desenvolvi disciplina, resiliência e espírito de liderança.
